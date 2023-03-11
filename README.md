@@ -206,5 +206,8 @@ _PUT_
 }
 ```
 
-## Autores ✒️
+## Autor ✒️
 _Mikael R. Chavez C._
+
+---
+⌨️ con ❤️ por [leacim10](https://github.com/leacim10) 😊
